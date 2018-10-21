@@ -1,5 +1,6 @@
 .idea
 .project
+.settings
 *.iml
 .DS_Store
 Thumbs.db
@@ -8,8 +9,8 @@ Thumbs.db
 
 .sass-cache
 Gemfile.lock
-package-json.lock
-
 _site
-node_modules
-_drafts
+
+dev/package-json.lock
+dev/package-lock.json
+dev/node_modules

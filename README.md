@@ -1,6 +1,6 @@
 # Compostage
 [![Validation des sources](https://travis-ci.org/parc-liberation/compostage.xml.svg?branch=master)](https://travis-ci.org/parc-liberation/compostage.xml)
-[![https://img.shields.io/badge/Site%20web-compostage-blue.svg](https://parc-liberation.github.io/compostage)](https://parc-liberation.github.io/compostage)
+[![Compostage](https://img.shields.io/badge/site%20web-compostage-blue.svg)](https://parc-liberation.github.io/compostage)
 
 Ce dépôt contient les sources du site dédié au compostage
 collectif dans la copropriété « Parc Libération » à Grenoble.

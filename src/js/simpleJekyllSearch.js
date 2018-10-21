@@ -1,12 +1,12 @@
 (function($) {
     $.fn.simpleJekyllSearch = function(options) {
         var settings = $.extend({
-            jsonFile        : '/search.json',
-            jsonFormat      : 'title,tags,categories,url,date',
-            template : '<li><article><a href="{url}"><span class="entry-category">{categories}</span> {title} <span class="entry-date"><time datetime="{date}">{date}</time></span></a></article></li>',
+            jsonFile        : '/compostage/recherche.json',
+            jsonFormat      : 'titre,categories,url',
+            template : '<li><page><a href="{url}"><span class="entry-category">{categories}</span> {titre} <span class="entry-date"></span></a></page></li>',
             searchResults   : '.search-results',
             limit           : '10',
-            noResults       : '<p>Puuuts! Não encontramos nada :(</p>'
+            noResults       : '<p>Aucun résultat :(</p>'
         }, options);
 
         var properties = settings.jsonFormat.split(',');
@@ -25,7 +25,7 @@
                     registerEvent();
                 },
                 error: function(x,y,z) {
-                    console.log("***ERROR in simpleJekyllSearch.js***");
+                    console.log("***Erreur dans le script simpleJekyllSearch.js***");
                     console.log(x);
                     console.log(y);
                     console.log(z);
