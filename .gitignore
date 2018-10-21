@@ -1,11 +1,15 @@
-_site
-tmp
-Gemfile.lock
-
-*.iml
+.idea
 .project
+*.iml
+.DS_Store
 Thumbs.db
 .DS_Store
 *~
 
-!.gitkeep
+.sass-cache
+Gemfile.lock
+package-json.lock
+
+_site
+node_modules
+_drafts
