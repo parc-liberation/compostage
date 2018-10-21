@@ -1,5 +1,5 @@
 # Compostage
-[![Validation des sources](https://travis-ci.org/parc-liberation/compostage.xml.svg?branch=master)](https://travis-ci.org/parc-liberation/compostage.xml)
+[![Validation des sources](https://travis-ci.org/parc-liberation/compostage.svg?branch=gh-pages)](https://travis-ci.org/parc-liberation/compostage)
 [![Compostage](https://img.shields.io/badge/site%20web-compostage-blue.svg)](https://parc-liberation.github.io/compostage)
 
 Ce dépôt contient les sources du site dédié au compostage
