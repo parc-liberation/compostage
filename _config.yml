@@ -1,8 +1,6 @@
 # Site Settings
 title: Compostage - Parc Libération à Grenoble
 description: Informations générales sur le compostage collectif de la copropriété.
-baseurl: "/compostage" 						# the subpath of your site, e.g. /blog
-url: "https://parc-liberation.github.io" 	# the base hostname & protocol for your site
 
 # User Settings
 username: Parc Libération
@@ -21,14 +19,7 @@ gems:
 collections:
   pages:
     output: true
-
-# Links to include in menu navigation
-# For external links add external: true
-links:
-  - title: Accueil
-    url: /
-  - title: Contact
-    url: /contact/
+    permalink: /:title
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules', 'dev']

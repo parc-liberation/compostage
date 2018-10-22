@@ -1,7 +1,7 @@
 ---
 layout: article
 titre: "Actualités"
-description: Les dernières informations au sujet du compostage dans la copropriété.
+description: Les dernières informations à ce sujet.
 image: ''
 date: 2018-10-21
 categorie: 'actualites'

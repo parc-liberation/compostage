@@ -2,8 +2,9 @@
     <nav id="navigation">
       <h2>Menu</h2>
       <ul>
-        {% for link in site.links %}
-          <li><a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
+        {% assign sorted_pages = site.pages | sort: 'position' %}
+    	{% for page in sorted_pages %}
+          <li><a href="{{ page.url }}">{{ page.titre }}</a></li>
         {% endfor %}
       </ul>
     </nav>
