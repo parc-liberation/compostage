@@ -4,7 +4,7 @@
       <ul>
         {% assign sorted_pages = site.pages | sort: 'position' %}
     	{% for page in sorted_pages %}
-          <li><a href="{{ page.url }}">{{ page.titre }}</a></li>
+          <li><a href="{{ page.name }}">{{ page.titre }}</a></li>
         {% endfor %}
       </ul>
     </nav>

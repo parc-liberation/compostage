@@ -23,8 +23,8 @@ créé avec enthousiasme par [Thiago Rossener](http://www.rossener.com).
 ## Ressources Graphiques
 
 Les images qui illustrent ce site ont pour certaines été réalisées
-par les habitants de la copropriété aévec leurs téléphones et appareils photo.
-La plupart des autres proviennent de sites en ligne, notamment [Stock Vault](stockvault.net),
+par les habitants de la copropriété avec leurs téléphones et appareils photo.
+La plupart des autres proviennent de sites en ligne, notamment [Stock Vault](http://stockvault.net),
 qui propose des images gratuites et libres de droit.
 
 L'image [comment ça marche ?](ressources/img/comment-ca-marche.jpg) a quant à elle été repérée sur le site

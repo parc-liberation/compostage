@@ -1,4 +1,0 @@
----
-layout: categorie
-category: 'Actualités'
----

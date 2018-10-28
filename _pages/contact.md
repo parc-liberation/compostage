@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 titre: Contact
 description: Se tenir informé et nous contacter.
 image: 'ressources/img/contact.jpg'
@@ -31,8 +31,8 @@ Vous pouvez aussi vous rendre sur [cette page](https://framalistes.org/sympa/sub
 et remplir le formulaire d'inscription.
 
 Votre demande d'abonnement ne sera pas immédiatement acceptée. Elle doit être validée par un des administrateurs de la liste.
-L'objectif est d'empêcher l'arrivée de spammeurs (et notamment de robots qui arpentent le web).
-Une fois inscrit, vous recevrez tout nouveau message sur la boîte e-mail que vous aurez renseignée à l'inscription.
+L'objectif est d'empêcher l'arrivée de spammeurs (et notamment des robots qui arpentent le web).
+Une fois inscrit, vous recevrez chaque nouveau message sur la boîte e-mail que vous aurez renseignée à l'inscription.
 
 
 ## Envoi d'un Message
@@ -72,7 +72,7 @@ Certaines sont payantes. D'autres sont gratuites, mais exploitent nos données p
 pour placer de la publicité.
 
 Nous avons choisi comme hébergeur de la liste, une association qui met en avant la protection
-de la vie privée. La solution retenue a en plus le mérite d'être gratuite et amplement suffisante
+de la vie privée. La solution retenue a en plus le mérite d'être gratuite et est amplement suffisante
 compte tenu de la taille de la copropriété.
 
-Vous trouverez de plus amples informations sur [cette page](https://framablog.org/2016/10/03/framalistes-vos-groups-nont-plus-a-appartenir-a-google/).
+Vous trouverez plus d'informations sur [cette page](https://framablog.org/2016/10/03/framalistes-vos-groups-nont-plus-a-appartenir-a-google/).

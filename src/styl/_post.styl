@@ -6,7 +6,7 @@
         top rem(50px)
 
 .post-content
-    padding rem(40px) 0
+    padding rem(30px) 0
     img
         max-width 100%
         margin rem(0px) auto
@@ -28,14 +28,12 @@
         center(rem(800px))
         mainFont(400)
         font-size rem(18px)
-        line-height rem(35px)
         padding 0 rem(20px)
         margin 0 auto rem(20px)
         letter-spacing 0.05rem
         +above(cut)
             font-size rem(20px)
-            line-height rem(40px)
-            margin 0 auto rem(29px)
+            margin 0 auto rem(19px)
     h1.post-title 
         margin 0 auto
         line-height rem(40px)
@@ -65,7 +63,7 @@
             +above(cut)
                 margin-right rem(30px)
     li 
-        padding rem(10px) 0
+        padding 0
         ul 
         margin-bottom 0
     p, li
@@ -127,13 +125,19 @@
       border 1px solid lightGray
       margin 50px auto
 
-    > table
+    table
         margin rem(50px) auto
+        border solid #ccc 2px
+        border-collapse collapse
+        width 80%
         +below(cut)
             display none
         th, td
             border rem(2px) solid #ccc
             padding rem(5px)
+        th
+            font-weight bold
+            text-align left
     
     td > pre
         padding 0
@@ -184,60 +188,3 @@
     fill darken(lightGray,30%)
     vertical-align middle
     margin-right rem(3px)
-
-/* Tags */
-
-.post-content
-    .tags
-        center(rem(800px))
-        mainFont(400)
-        font-size rem(18px)
-        margin 0 auto rem(29px)
-        margin-top rem(30px)
-        letter-spacing 0.01rem
-        line-height rem(40px)
-        +above(cut)
-            font-size rem(20px)
-            letter-spacing 0.05rem
-        a
-            font-size rem(14px)
-            color primaryDark
-            display inline-block
-            border 1px solid primaryDark
-            border-radius rem(20px)
-            padding 0 rem(10px)
-            margin-right rem(2px)
-            margin-bottom rem(8px)
-            text-decoration none
-            transition all .3s
-            &:hover
-                color accentDark
-                border 1px solid primaryDark
-                background-color primaryDark
-    .tag-title
-        mainFont(300)
-        font-size rem(38px)
-        margin-top rem(60px)
-        center(rem(800px))
-        +below(cut)
-            font-size rem(30px)
-            margin-top rem(20px)
-            padding 0 rem(20px)
-    .post-list
-        list-style none
-        margin rem(25px) auto
-        +below(cut)
-            padding 0 rem(20px)
-        a
-            display block
-            border-bottom 1px solid darken(lightGray,10%)
-            padding rem(10px) 0
-            text-decoration none
-            transition all .5s
-            font-size rem(18px)
-            &:hover
-                border-bottom 1px solid themeColor
-        .entry-date
-            float right
-            +below(cut)
-                display none
