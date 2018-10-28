@@ -4,7 +4,7 @@
 		{% if page.image %}
 		<div class="cover"> 
 			{% include new-post-tag.html date=page.date %}
-			<a href="{{ page.name | prepend: site.url }}">
+			<a href="{{ site.url }}{{ page.url }}">
 				<img src="ressources/img/placeholder.png" data-url="{{ page.image }}" class="preload" alt="{{ page.description }}" />
 			</a>
 		</div>
@@ -16,10 +16,10 @@
 				{% include date.html date=page.date %}
 			</time>
 
-			<a class="page-link" href="{{ page.name }}">
+			<a class="page-link" href="{{ site.url }}{{ page.url }}">
 				<h2 class="page-title" itemprop="name">{{ page.titre }}</h2>
 			</a>
-			<a class="page-link" href="{{ page.name }}">
+			<a class="page-link" href="{{ site.url }}{{ page.url }}">
 				<p class="description">{{ page.description }}</p>
 			</a>
 		</div>
