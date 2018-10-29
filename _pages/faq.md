@@ -11,7 +11,7 @@ position: 4
 
 * Tous les déchets de fruits et légumes : épluchures, trognons...
 * Vos restes de plats (hors viandes et poissons).
-* Restes de yaouts et produits laitiers.
+* Restes de yaourts et produits laitiers.
 * Les coquilles d'œuf.
 
 Dans l'absolu, tous les déchets de cuisine sont compostables.  
@@ -95,7 +95,26 @@ Il peut d'abord servir aux plantes de la copropriété et au parc lui-même. Si 
 suffisamment mûr, il peut être tamisé et utilisé en complément pour des plantes d'intérieur.
 
 
-**Est-ce que compostage collectif rime avec écologie ?**
+**Un bon compost nécessite un peu d'entretien. Qui va s'en occuper ?**
+
+Nous sommes quelques-uns à avoir participé à la formation dispensée par la Métro.  
+Nous nous proposons donc pour gérer cela. Nous espérons aussi que d'autres résidents s'impliqueront
+dans la démarche et donneront un coup de main de temps en temps.
+
+En fait, personne n'est obligé d'utiliser le compostage collectif.  
+Et même ceux qui l'utilisent ne sont pas contraints de participer à l'entretien. Tout est basé sur
+le volontariat. Nous rappelons aussi que ce n'est, pour le moment, qu'une expérimentation, dont nous
+tirerons un bilan en temps voulu.
+
+
+**Le compostage collectif nécessite des bacs adéquats. Où les trouver et combien coûtent-ils ?**
+
+Il faut effectivement de bacs dédiés, en bois de préférence.  
+La Métro fournit gratuitement ces bacs. Il suffit de les pré-commancer sur
+[leur site](http://www.moinsjeter.fr/les-bonnes-idees/composter).
+
+
+**Est-ce que compostage (collectif) rime avec écologie ?**
 
 Pas forcément, non.  
 Certes, composter ses déchets de cuisine réduit la quantité d'ordures ramassées par la ville,
