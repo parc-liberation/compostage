@@ -10,13 +10,15 @@ position: 1
 
 ## 6 Décembre 2018 : visite éclair de la Métro
 
-Thomas Roux, chargé de notre secteur à la Métro, est passé voir la copropriété. Nous avons discuté de l'emplacement le plus approprié pour poser les bacs. Il a rappelé également que poser les bacs sur la terre étaient préférable (pour l'absorption des jus). Et il a confirmé que près du mur serait un bon endroit :
+Thomas Roux, chargé de notre secteur à la Métro, est passé voir la copropriété. Nous avons discuté de l'emplacement le plus approprié pour poser les bacs. Il a rappelé également que poser les bacs sur la terre était préférable (pour l'absorption des jus). Et il a confirmé que près du mur serait un bon endroit :
 
 * Emplacement plutôt discret, un peu éloigné.
 * Accès facile, sans avoir à marcher dans la boue.
 * La livraison de matières sèches ne posera pas de problème ici.
 
-<img src="ressources/img/actus/emplacement_prevus_06_12_2018.jpg" alt="Zone envisagée pour accueillir les bacs" />
+<a href="ressources/img/actus/emplacement_prevus_06_12_2018.jpg">
+	<img src="ressources/img/actus/emplacement_prevus_06_12_2018.jpg" alt="Zone envisagée pour accueillir les bacs" style="width: 300px" />
+</a>
 
 Enfin, il a précisé la marche à suivre pour la pose des bacs :
 
