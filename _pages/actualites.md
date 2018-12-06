@@ -3,7 +3,7 @@ layout: article
 titre: "Actualités"
 description: Les dernières informations.
 image: 'ressources/img/actualites.jpg'
-date: 2018-10-21
+date: 2018-12-06
 position: 1
 ---
 
