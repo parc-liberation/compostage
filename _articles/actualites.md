@@ -18,7 +18,7 @@ Si vous souhaitez vous joindre à nous, n'hésitez pas.
 
 ## 25 Février 2019 : commande du composteur
 
-Après plusieurs mois de rupture de stock, les composteurs en bois sont à nouveau disponible à la commande sur le site
+Après plusieurs mois de rupture de stock, les composteurs en bois sont à nouveau disponibles à la commande sur le site
 de la Métro. Un composteur en bois de 600 litres (et non 400 comme cela était prévu au départ) a donc été commandé. Il sera
 bientôt livré par les équipes de la Métro.
 
