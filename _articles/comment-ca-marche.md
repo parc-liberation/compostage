@@ -1,9 +1,9 @@
 ---
 layout: article
 titre: "Comment ça marche ?"
-description: En quoi consiste le compostage ?
-image: 'ressources/img/comment-ca-marche.jpg'
-date: 2018-10-21
+description: "En quoi consiste le compostage ?"
+image: "ressources/img/comment-ca-marche.jpg"
+date: "2018-10-21"
 position: 3
 ---
 
@@ -17,7 +17,7 @@ La copropriété s'y prêt d'autant bien qu'elle bénéficie d'un parc avec espa
 
 ## Trois bacs
 
-<img src="ressources/img/4008_955_Le-site-de-la-cantine-scolaire-du-Touvet.jpg" alt="Trois bacs, côte à côte" />
+<img src="{{ site.url }}/ressources/img/4008_955_Le-site-de-la-cantine-scolaire-du-Touvet.jpg" alt="Trois bacs, côte à côte" />
 
 Source : [le-gresivaudan.fr](https://www.le-gresivaudan.fr/61-compostage.htm)
 
@@ -81,9 +81,9 @@ Un bac de copeaux fait facilement plusieurs mois.
 
 La réussite du compostage nécessite un peu d'entretien.
 
-* Toute personne qui dépose ses déchets est invitée à remuer le dessus du bac à l'aide d'[une griffe](ressources/img/outil-griffe.jpg) (attachée au bac).
-* Il est aussi recommandé d'aérer le contenu du bac chaque semaine, en le brassant à l'aide de [la griffe](ressources/img/outil-griffe.jpg).
-* Lorsque le deuxième bac est plein, il est nécessaire de basculer son contenu vers le troisième bac, à l'aide d'[une fourche](ressources/img/outil-fourche.jpg).
+* Toute personne qui dépose ses déchets est invitée à remuer le dessus du bac à l'aide d'[une griffe]({{ site.url }}/ressources/img/outil-griffe.jpg) (attachée au bac).
+* Il est aussi recommandé d'aérer le contenu du bac chaque semaine, en le brassant à l'aide de [la griffe]({{ site.url }}/ressources/img/outil-griffe.jpg).
+* Lorsque le deuxième bac est plein, il est nécessaire de basculer son contenu vers le troisième bac, à l'aide d'[une fourche]({{ site.url }}/ressources/img/outil-fourche.jpg).
 * Si le troisième bac est déjà rempli, il faut alors vider son contenu au préalable. Le tamiser permet par de l'utiliser plus facilement.
 
-<img src="ressources/img/outil-tamis.jpg" alt="Tamis à grosse maille pour compost" />
+<img src="{{ site.url }}/ressources/img/outil-tamis.jpg" alt="Tamis à grosse maille pour compost" />

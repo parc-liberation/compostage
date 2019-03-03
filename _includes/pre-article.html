@@ -1,26 +1,26 @@
 
 <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/Blogpageing" itemprop="blogpage">
 	<div class="box-body">
-		{% if page.image %}
+		{% if include.page.image %}
 		<div class="cover"> 
-			{% include new-post-tag.html date=page.date %}
-			<a href="{{ site.url }}{{ page.url }}">
-				<img src="ressources/img/placeholder.png" data-url="{{ page.image }}" class="preload" alt="{{ page.description }}" />
+			{% include new-post-tag.html date=include.page.date %}
+			<a href="{{ site.url }}{{ include.page.url }}">
+				<img src="ressources/img/placeholder.png" data-url="{{ include.page.image }}" class="preload" alt="{{ include.page.description }}" />
 			</a>
 		</div>
 		{% endif %}
 
 		<div class="box-info">
-			<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">
-			<time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}" class="date">
-				{% include date.html date=page.date %}
+			<meta itemprop="datePublished" content="{{ include.page.date | date_to_xmlschema }}">
+			<time itemprop="datePublished" datetime="{{ include.page.date | date_to_xmlschema }}" class="date">
+				{% include date.html date=include.page.date %}
 			</time>
 
-			<a class="page-link" href="{{ site.url }}{{ page.url }}">
-				<h2 class="page-title" itemprop="name">{{ page.titre }}</h2>
+			<a class="page-link" href="{{ site.url }}{{ include.page.url }}">
+				<h2 class="page-title" itemprop="name">{{ include.page.titre }}</h2>
 			</a>
-			<a class="page-link" href="{{ site.url }}{{ page.url }}">
-				<p class="description">{{ page.description }}</p>
+			<a class="page-link" href="{{ site.url }}{{ include.page.url }}">
+				<p class="description">{{ include.page.description }}</p>
 			</a>
 		</div>
 	</div>

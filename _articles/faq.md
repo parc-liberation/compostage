@@ -1,9 +1,9 @@
 ---
 layout: article
 titre: "FAQ"
-description: Questions fréquemment posées.
-image: 'ressources/img/faq.png'
-date: 2018-10-21
+description: "Questions fréquemment posées."
+image: "ressources/img/faq.png"
+date: "2018-10-21"
 position: 4
 ---
 

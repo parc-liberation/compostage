@@ -16,11 +16,11 @@ permalink: /:title/
 # Plugins
 gems:
   - jemoji
-  
-collections:
-  pages:
-    output: true
-    permalink: /:title
 
-# Exclude my node related stuff
+collections:
+  articles:
+    output: true
+    permalink: /:title/
+
+# Exclude Node.js related stuff
 exclude: ['package.json', 'src', 'node_modules', 'dev']

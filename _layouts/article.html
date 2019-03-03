@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" itemscope itemtype="http://schema.org/BlogPosting">
+<html lang="fr" itemscope itemtype="http://schema.org/BlogPosting">
     {% include entete.html %}
     <body class="has-push-menu">
         {% include temps-de-lecture.html %}
@@ -22,7 +22,7 @@
                 <p itemprop="description" class="subtitle">{{ page.description }}</p>
 
                 {% if page.image %}
-                    <img src="{{ page.image }}" alt="{{ page.description }}" class="post-cover">
+                    <img src="{{ site.url }}/{{ page.image }}" alt="{{ page.description }}" class="post-cover">
                 {% endif %}
 
                 {{ content }}

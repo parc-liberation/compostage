@@ -1,9 +1,9 @@
 ---
 layout: article
-titre: Contact
-description: Se tenir informé et nous contacter.
-image: 'ressources/img/contact.jpg'
-date: 2018-10-21
+titre: "Contact"
+description: "Se tenir informé et nous contacter."
+image: "ressources/img/contact.jpg"
+date: "2018-10-21"
 categorie: Informations
 position: 6
 ---
@@ -18,8 +18,8 @@ informé au sujet du compostage collectif, nous avons mis en place une liste de 
 Il s'agît d'une adresse e-mail qui retransmet vers ses abonnés, tous les messages qui lui sont adressés.
 Cette liste est privée, dans le sens où seuls les habitants de la copropriété devraient y avoir accès.
 
-<a href="ressources/img/liste-de-diffusion.png">
-	<img src="ressources/img/liste-de-diffusion.png" alt="Schéma représentant le fonctionnement d'une liste de diffusion" />
+<a href="{{ site.url }}/ressources/img/liste-de-diffusion.png">
+	<img src="{{ site.url }}/ressources/img/liste-de-diffusion.png" alt="Schéma représentant le fonctionnement d'une liste de diffusion" />
 </a>
 
 Tout membre de la liste reçoit les messages publiés par les autres abonnés,
@@ -52,7 +52,8 @@ rappeler qu'il est dédié au compostage collectif dans la copropriété.
 Si vous êtes nouveau sur la liste, vous pouvez lire les anciens messages postés.
 Il sont disponibles en intégralité dans les archives.
 
-Leur accès sera documenté plus tard.
+Pour cela, il suffit de visiter [cette page](https://framalistes.org/sympa/arc/compostage-parc-liberation/) et de s'authentifier.  
+**Seules les personnes inscrites à la liste peuvent accéder aux archives**.
 
 
 ## Désinscription

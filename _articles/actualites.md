@@ -1,12 +1,30 @@
 ---
 layout: article
 titre: "Actualités"
-description: Les dernières informations.
-image: 'ressources/img/actualites.jpg'
-date: 2018-12-06
+description: "Les dernières informations."
+image: "ressources/img/actualites.jpg"
+date: "2019-03-03"
 position: 1
 ---
 
+## 3 Mars 2019 : date de livraison connue pour le composteur
+
+Celui-ci sera livré <u>mercredi 13 mars</u> après-midi.  
+La Métro et ses équipes nous aideront au montage et à l'installation des bacs. Des matières sèches seront aussi
+ajoutées dans le bac dédié. Enfin, des bio-seaux devraient être distribués.
+
+Nous sommes déjà 3 personnes qui seront présentes pour les accueillir et faire la mise en place (à partir de 14 heures).
+Si vous souhaitez vous joindre à nous, n'hésitez pas.
+
+## 25 Février 2019 : commande du composteur
+
+Après plusieurs mois de rupture de stock, les composteurs en bois sont à nouveau disponible à la commande sur le site
+de la Métro. Un composteur en bois de 600 litres (et non 400 comme cela était prévu au départ) a donc été commandé. Il sera
+bientôt livré par les équipes de la Métro.
+
+Comme expliqué sur le site, un composteur est composé de 3 bacs.  
+L'un d'entre eux servira à stocker les matières sèches (copeaux, etc). La Métro livrera par la même occasion
+de quoi remplir ce bac, ainsi que des bio-seaux.
 
 ## 6 Décembre 2018 : visite éclair de la Métro
 
@@ -16,8 +34,8 @@ Thomas Roux, chargé de notre secteur à la Métro, est passé voir la copropri�
 * Accès facile, sans avoir à marcher dans la boue.
 * La livraison de matières sèches ne posera pas de problème ici.
 
-<a href="ressources/img/actus/emplacement_prevus_06_12_2018.jpg">
-	<img src="ressources/img/actus/emplacement_prevus_06_12_2018.jpg" alt="Zone envisagée pour accueillir les bacs" style="width: 300px" />
+<a href="{{ site.url }}/ressources/img/actus/emplacement_prevus_06_12_2018.jpg">
+	<img src="{{ site.url }}/ressources/img/actus/emplacement_prevus_06_12_2018.jpg" alt="Zone envisagée pour accueillir les bacs" style="width: 300px" />
 </a>
 
 Enfin, il a précisé la marche à suivre pour la pose des bacs :

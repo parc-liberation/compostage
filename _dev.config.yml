@@ -1,0 +1,2 @@
+# Override some properties for development purpose
+url: http://localhost:4000
