@@ -18,4 +18,5 @@ Cette page permet de suivre les diverses actions effectuées.
 
 | Date | Actions effectuées | Commentaires |
 | ---- | ---------------- | ------------------- |
-| 28/10/2018 | Ajout d'un exemple | - |
+| 30/03/2019 | * Brassage du bac central.<br />* Arrosage également (le contenu était très sec).<br />* Réfection de ce même bac (panneau du bac réajusté, espace avec le panneau du haut bouché, remise en place de la pancarte)). | Merci à Laurent et Vincent pour avoir arrangé le bac. |
+| 22/03/2019 | Rajout de matières sèches / broyat que le gardien avait en stock. | - |
