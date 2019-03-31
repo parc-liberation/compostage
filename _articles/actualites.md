@@ -3,9 +3,21 @@ layout: article
 titre: "Actualités"
 description: "Les dernières informations."
 image: "ressources/img/actualites.jpg"
-date: "2019-03-03"
+date: "2019-03-31"
 position: 1
 ---
+
+## 22 Mars 2019 : démonstration du composteur et goûter
+
+Le goûter qui avait été annoncé en bas de chaque allée s'est tenu vendredi 22 mars, vers 17 heures.
+Cela a été l'occasion de réexpliquer le fonctionnement du composteur, le rôle de chaque bac, ce que l'on peut y mettre et ce qu'il faut éviter. Des bio-seaux ont également été distribués aux personnes présentes.
+
+Encore merci à tous ceux qui ont pu participer.
+
+## 13 Mars 2019 : mise en place du composteur
+
+La Métro et ses équipes ont livré le composteur et de quoi remplir le bac de matière sèches.  
+Nous étions plusieurs pour les aider et l'opération a finalement pris peu de temps (un peu plus d'une heure). TODO: rajouter une photo...
 
 ## 3 Mars 2019 : date de livraison connue pour le composteur
 
