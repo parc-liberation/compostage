@@ -16,7 +16,8 @@ Cela inclut...
 
 Cette page permet de suivre les diverses actions effectuées.
 
-| Date | Actions effectuées | Commentaires |
+| Date | Actions effectuées | Personnes présentes |
 | ---- | ---------------- | ------------------- |
-| 30/03/2019 | * Brassage du bac central.<br />* Arrosage également (le contenu était très sec).<br />* Réfection de ce même bac (panneau du bac réajusté, espace avec le panneau du haut bouché, remise en place de la pancarte)). | Merci à Laurent et Vincent pour avoir arrangé le bac. |
+| 06/04/2019 | Retrait temporaire du couvercle du bac central, afin que la pluie humidifie (et tasse) le contenu. | Henriette, Inès et Vincent. |
+| 30/03/2019 | * Brassage du bac central.<br />* Arrosage également (le contenu était très sec).<br />* Réfection de ce même bac (panneau du bac réajusté, espace avec le panneau du haut bouché, remise en place de la pancarte)). | Laurent et Vincent. |
 | 22/03/2019 | Rajout de matières sèches / broyat que le gardien avait en stock. | - |
