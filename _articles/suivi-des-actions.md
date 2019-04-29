@@ -27,5 +27,5 @@ Cette page sert aussi de journal et permet de suivre les diverses actions effect
 | 29/04/2019 | Achat d'une fourche, et de petites griffe et pelle. | Inès |
 | 12/04/2019 | Rajout de matières sèches, brassage du bac central. | Le concierge et Vincent |
 | 06/04/2019 | Retrait temporaire du couvercle du bac central, afin que la pluie humidifie (et tasse) le contenu. | Henriette, Inès et Vincent |
-| 30/03/2019 | <ul><li> Brassage du bac central.</li><li>Arrosage également (le contenu était très sec).</li><li>Réfection de ce même bac (panneau du bac réajusté, espace avec le panneau du haut bouché, remise en place de la pancarte)).</li></ul> | Laurent et Vincent |
+| 30/03/2019 | - Brassage du bac central.<br />- Arrosage également (le contenu était très sec).<br />- Réfection de ce même bac (panneau du bac réajusté, espace avec le panneau du haut bouché, remise en place de la pancarte)). | Laurent et Vincent |
 | 22/03/2019 | Rajout de matières sèches / broyat que le gardien avait en stock. | - |
