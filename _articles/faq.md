@@ -127,5 +127,5 @@ Or, ce gaz a un fort effet de serre,
 [25 fois plus puissant](https://www.futura-sciences.com/planete/actualites/gaz-effet-serre-methane-effet-serre-premieres-preuves-directes-70770/)
 que le dioxyde de carbone (CO<sub>2</sub>).
 
-Un compostage collectif est plus une démarche citoyenne, qui nous sensibilise au traitement des
+Un compostage collectif est surtout une démarche citoyenne, qui nous sensibilise au traitement des
 déchets.
