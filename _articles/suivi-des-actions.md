@@ -23,6 +23,8 @@ Cette page sert aussi de journal et permet de suivre les diverses actions effect
 
 | Date | Actions effectuées | Personnes impliquées |
 | ---- | ---------------- | ------------------- |
+| 08/07/2019 | Rajout de broyats récupérés à la <a href="https://www.google.com/maps/place/D%C3%A9ch%C3%A8terie+de+Saint-Martin-d'H%C3%A8res/@45.187641,5.759664,17z/data=!4m12!1m6!3m5!1s0x478af56c934002e5:0x1c9dffb85b54c08f!2sD%C3%A9ch%C3%A8terie+de+Saint-Martin-d'H%C3%A8res!8m2!3d45.187641!4d5.7618527!3m4!1s0x478af56c934002e5:0x1c9dffb85b54c08f!8m2!3d45.187641!4d5.7618527">déchetterie de S<sup>t</sup> Martin d'Hères</a>. | Henriette et Vincent |
+| 17/05/2019 | Transvasement du bac central vers le bac de maturation. | Laurent, Inès, et bien d'autres (6 en tout). :) |
 | 29/04/2019 | Brassage du bac central. | Henriette, Inès et Vincent |
 | 29/04/2019 | Achat d'une fourche, et de petites griffe et pelle. | Inès |
 | 12/04/2019 | Rajout de matières sèches, brassage du bac central. | Le concierge et Vincent |
