@@ -129,3 +129,23 @@ que le dioxyde de carbone (CO<sub>2</sub>).
 
 Un compostage collectif est surtout une démarche citoyenne, qui nous sensibilise au traitement des
 déchets.
+
+
+**Où récupérer des matières sèches ?**
+
+Des matières sèches, issues de bois broyé, et donc riches en carbone, sont nécessaires
+pour un bon compost. Lorsque des élagages ont lieu dans la copropriété, il est possible
+de demander aux paysagistes de broyer les branches et de déposer le résultat dans le premier
+bac. S'ils devaient déposer ces broyats en déchetterie, cela leur coûterait de
+l'argent. En les laissant sur place, chacun y trouve son compte.
+
+Il est aussi possible d'aller en déchetterie en récupérer gratuitement.  
+Toutes ne proposent pas de matières sèches pour le compost. Celles qui en ont,
+et qui ont déjà été testées par le passé, sont celles de...
+
+* ... <a href="https://www.lametro.fr/dechetterie/4/271-decheterie-d-eybens.htm">Eybens</a>.
+* ... <a href="https://www.lametro.fr/dechetterie/15/271-decheterie-de-saint-martin-d-heres.htm">S<sup>t</sup> Martin d'Hères</a>.
+
+Les horaires sont indiqués dans les liens ci-dessus (qui mènent au site de la Métro).
+Vous pouvez utiliser des sacs à gravats pour transporter les matières sèches, ou bien utiliser
+de grand conteneurs (type poubelle).
