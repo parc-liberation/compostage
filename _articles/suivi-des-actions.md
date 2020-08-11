@@ -23,6 +23,8 @@ Cette page sert aussi de journal et permet de suivre les diverses actions effect
 
 | Date | Actions effectuées | Personnes impliquées |
 | ---- | ---------------- | ------------------- |
+| 07/08/2020 | Transvasement des bacs. | Vincent. |
+| Fin avril 2020 | Transvasement des bacs (période de confinement due au COVID-19). | Laurent, Sébastien ? |
 | 26/01/2020 | Remplacement des charnières sur le bac central. | Sans certitude, Laurent ? |
 | 25/01/2020 | Transvasement du bac central vers le bac de maturation. | Marion, Nathanaël, Pierrine, Bastien et bien d'autres (8 personnes en tout). |
 | 11/01/2020 | Rajout de broyats récupérés à la <a href="https://www.google.com/maps/place/D%C3%A9ch%C3%A8terie+d'Eybens/@45.153233,5.7411803,17z/data=!3m1!4b1!4m5!3m4!1s0x478a8b2b0bbee3f7:0x2392407d551d29c0!8m2!3d45.153233!4d5.743369">déchetterie de Eybens</a>. | Inès et Vincent. |
