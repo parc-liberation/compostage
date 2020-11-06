@@ -14,6 +14,8 @@ position: 4
 * Restes de yaourts et produits laitiers.
 * Les coquilles d'œuf.
 
+Voir la liste complète [ici](comment-ca-marche.html).
+
 Dans l'absolu, tous les déchets de cuisine sont compostables.  
 Mais pour diverses raisons, il est déconseillé de mettre certains déchets dans un
 compost en ville. C'est le cas des viandes, poissons, crustacés... qu'il vaut mieux jeter
@@ -76,7 +78,7 @@ contre les rats s'appliquent aussi à eux.
 **Qu'en est-il des insectes ? Un site de compostage doit en grouiller...**
 
 Si les règles précédentes sont respectées, il n'y a que quelques moucherons en été,
-à proximité immédiate du bac principal (moins d'un mètre). Les autres insectes ou vers
+à proximité immédiate du bac principal (moins d'un mètre, et même souvent concentrés entre le tas et le couvercle du bac). Les autres insectes ou vers
 qui peuvent venir, vivent dans le tas de compost, et participent à la décomposition des
 déchets. Ces insectes sont aussi présents dans le parc en temps normal.
 

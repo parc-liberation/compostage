@@ -38,18 +38,24 @@ Le deuxième bac est destiné à accueillir les déchets de cuisine.
 * Restes de yaourts et produits laitiers.
 * Les coquilles d'œuf.
 * Les restes de gâteaux.
-  
+* Le marc de café (mais pas les capsules de café !).
+* Les copeaux de boix (par exemple, si vous avez un hamster).
+
 Certains déchets sont en revanche à prohiber.
 
+* Les déchets en carton, papier, plastique, etc.
 * La viande, crue ou cuite.
 * Le poisson et les crustacés.
 * Le pain, même dur.
+* Les capsules de café.
+* La litière pour chat (souvent d'origine minérale).
+* Les sacs plastiques bio-dégradables (qui mettent trop de temps à se décomposer par rapport aux autres déchets listés).
 
 
 ## L'emplacement
 
-A l'heure où ces lignes sont écrites, aucun emplacement n'a encore été retenu.  
-Il s'agît d'un critère essentiel. En effet...
+Les bacs se situent dans la cour, côté sud, vers le carré goudronné au centre du parc.
+Le choix s'est fait en fonction des critères suivants :
 
 * ... il faut suffisamment d'espace pour placer 3 bacs côte à côte.
 * ... les conteneurs doivent être facilement accessibles.
@@ -63,7 +69,7 @@ Il s'agît d'un critère essentiel. En effet...
 Un bon compost nécessite trois éléments :
 
 * Des déchets de cuisine (déchets verts principalement).
-* Des copeaux (déchets bruns).
+* Des copeaux / matières sèches (déchets bruns).
 * Un peu d'humidité.
 
 Le seul matériau qui n'est pas facilement accessible est les copeaux.  
@@ -72,7 +78,7 @@ est faite. Par la suite, c'est à la copropriété de trouver une source d'appro
 
 Une solution, relativement courante, est de passer un accord avec un ou des paysagistes, afin qu'ils
 viennent déposer les branches qu'ils auraient broyées. Sachant que ces derniers doivent payer lorsqu'ils
-les mettent en déchetterie, l'accord est généralement considéré comme gagnant-gagnant pour les deux parties.
+les mettent en déchetterie, l'accord est généralement considéré comme gagnant-gagnant pour les deux parties. Autrement, il est possible d'en récupérer en déchetteries (Eybens et St Martin d'Hères en proposent par exemple). Ne pas hésiter à téléphoner au préalable pour être certain de leur stock. Cela évitera un déplacement inutile s'ils n'en ont plus.
 
 Un bac de copeaux fait facilement plusieurs mois. 
 
